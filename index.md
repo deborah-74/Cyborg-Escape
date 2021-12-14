@@ -99,5 +99,19 @@ This step was one of the most difficult steps to complete, but necessary to tie 
 
 Overall, I am very pleased with how this project turned out. I believe that the story was veyr well put together and a lot of thought was put into creating an interesting and immersive story. If I had more time to complete this project, I would definitely put more focus on maximising user experience by adding different things such as a UI with instructions that could guide the user through the experience if they wish to use it. I would also add some shaders that would activate at specific moments to give the users hints on what objects to interact with or where to go during a scene. I would also make the experience more interactive by allowing the user to choose how to interact with other NPCs. Additionally, I would try to predict a user's actions during the experience and incorporate this into the project,for example making a cyborg tell the player off for banging on the wall. Despite this, I am extremely happy with my final project, and I definitely gained a lot ofskills that I will be using in the future!
 
-[Link](url) and ![Image](src)
+## Gallery
+
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2013.59.26.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2014.01.52.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.07.40.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.03.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.22.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.17.43.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.17.59.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.24.48.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.25.29.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.29.10.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.33.01.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.35.20.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.49.45.png)
 
