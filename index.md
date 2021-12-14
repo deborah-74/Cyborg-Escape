@@ -53,30 +53,51 @@ Several animations were used to drive the narrative. From the character animatio
 - In the city scene, the cameras + spotlights are animated to rotate, to give the illusion that they are surveilling the area
 - The cyborgs are animated to walk around the scenes with their rifle, and turn when necessary
 
+## Process
+
+### Building the storyworld
+
+The first step during this project was to create and download the assets. Since one of the requirements for this project was to keep the assets folder below 1.5GB, a lot of the assets were created within Unity - and also Maya - using probuilder and other tools. The first scene created was the prison scene, which was made with cubes for the walls, ceiling and floor, and cylinders for the prison cells. The city scene and console room scene were also built from scratch. Assets to help build the scenes were also downloaded from the Unity asset store, such as a toilet, sink, bed and so on.
+
+### Using timeline
+
+Unity's timeline tool was a very useful part of this project, as it was a way to organise all the sounds and animations all in a sequence on one game object. The animation track contained most of the animations which I made with Unity's own animator and animation controller.
+
+### Scripting interactions
+
+The next and most crucial step was scripting all the interactions. The first interactions scripted was navigation, which was done after setting up the XR rig so that the left hand controller could function as the teleporter. The right hand controller was used for all other interactions. To avoid any issues, I created layers for the interactions and allowed the left hand controller to only be able to access the teleportation layer, while the right hand controller could access the other layers such as: grabbables, socket and so on. Layers were useful in organising everything and also preventing unwanted interactions between game objects. Several scripts were used throughout this project, such as the following:
+
+1) Wall controller: this script was used to manage the direct interaction between the pipe tool and the section on the wall that would break. Before this, I made sure to create an empty game object on this part of the wall and also put the pipe under a tag, and made the box collider on it a trigger. I created several versions of the wall, each one with a bigger hole. I hid all the versions except the first one, and the function of the script was to hide the version of the wall it is attached to, and make the next version active. As a nice touch, I added a brick game object that would become active to give the illusion that the wall is breaking apart.
+
 ```markdown
-Syntax highlighted code block
+private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.CompareTag("Pipe"))
+        {
+            wall1.SetActive(false);
+            wall2.SetActive(true);
+            brick.SetActive(true);
+        }
+    }
+```
+    
+   Other scripts like this were created for other direct interactions, such as one in the lobby scene that would scan the player's hand.
 
-# Header 1
-## Header 2
-### Header 3
+2) Detect player: the function of this script was to send a raycast that would return true if it hit any objects on the 'player' layer. If it returns true, the user's position would be reset to where it was at the beginning of the scene. This was achieved by having the XR rig's position be the same as another game object called XROrigin. However, this game object would only become active once the player is detected, after which it would be deactivated again. A similar script was also used for the cyborgs to detect the player.
 
-- Bulleted
-- List
+3) Plug controller: this script would deactivate the electricity game objects on the fence once the plug was removed. This script was coupled with a socket interaction
 
-1. Numbered
-2. List
+4) Physics button: the function of this script was to get values of the vertical position of a button to determine whether it was pressed
 
-**Bold** and _Italic_ and `Code` text
+There were also scripts created for sounds that would be triggered whenever an action was completed, such as picking up the pipe in the prison scene.
+
+### Scripting scene transitions
+
+This step was one of the most difficult steps to complete, but necessary to tie the whole narrative together. These scripts were created to transition between scenes, and they were coupled with other scripts that would trigger the scene transition controller when certain actions were completed, such as moving the transition area in the tunnel in the prison scene. I decided to have an XR rig in each scene rather than have just one XR rig that would persist throughout. It was easier this way because in different scenes, the XR rig had different scripts attached that required specific public variable inputs.
+
+## Evaluation
+
+Overall, I am very pleased with how this project turned out. I believe that the story was veyr well put together and a lot of thought was put into creating an interesting and immersive story. If I had more time to complete this project, I would definitely put more focus on maximising user experience by adding different things such as a UI with instructions that could guide the user through the experience if they wish to use it. I would also add some shaders that would activate at specific moments to give the users hints on what objects to interact with or where to go during a scene. I would also make the experience more interactive by allowing the user to choose how to interact with other NPCs. Additionally, I would try to predict a user's actions during the experience and incorporate this into the project,for example making a cyborg tell the player off for banging on the wall. Despite this, I am extremely happy with my final project, and I definitely gained a lot ofskills that I will be using in the future!
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deborah-74/Cyborg-Escape/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
