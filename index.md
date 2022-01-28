@@ -102,21 +102,21 @@ Overall, I am very pleased with how this project turned out. I believe that the 
 ## Gallery
 
 <img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2013.59.26.png?raw=true">
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2014.01.52.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.07.40.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.03.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.22.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.17.43.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.17.59.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.24.48.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.25.29.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.29.10.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.33.01.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.35.20.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.49.45.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2000.10.57.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2000.23.35.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2000.24.16.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2014.44.25.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2014.45.03.png)
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-20%20at%2021.00.37.png)
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2014.01.52.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.07.40.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.03.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.22.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.17.43.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.17.59.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.24.48.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.25.29.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.29.10.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.33.01.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.35.20.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2012.49.45.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2000.10.57.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2000.23.35.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2000.24.16.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2014.44.25.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-17%20at%2014.45.03.png?raw=true">
+<img src="https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-20%20at%2021.00.37.png?raw=true">
