@@ -101,7 +101,7 @@ Overall, I am very pleased with how this project turned out. I believe that the 
 
 ## Gallery
 
-![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2013.59.26.png)
+![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2013.59.26.png?raw=true)
 ![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-11-10%20at%2014.01.52.png)
 ![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.07.40.png)
 ![Image](https://github.com/deborah-74/Cyborg-Escape/blob/gh-pages/Screenshot%202021-12-13%20at%2001.09.03.png)
